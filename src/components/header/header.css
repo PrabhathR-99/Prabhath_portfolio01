@@ -70,7 +70,7 @@
 
   .nav__menu {
     position: fixed;
-    bottom: -100;
+    bottom: -60px;
     left: 0;
     width: 100%;
     background-color: var(--body-color);
@@ -89,7 +89,7 @@
     color: var(--container-color);
     padding: 2.5rem 0.5rem;
     border-radius: 8rem;
-    font-weighr: var(--font-medium);
+    font-weight: var(--font-medium);
     margin-top: 10px;
     box-shadow: 0px 4px 15px rgba(39, 63, 254, 0.2);
     transition: all 0.3s ease 0s;
@@ -141,17 +141,11 @@
   color: var(--container-color);
   padding: 0.5rem 1.7rem;
   border-radius: 4rem;
-  font-weighr: var(--font-medium);
+  font-weight: var(--font-medium);
   margin-top: -20px;
   box-shadow: 0px 4px 15px rgba(39, 63, 254, 0.2);
   transition: all 0.3s ease 0s;
   cursor: pointer;
-}
-
-.button::hover {
-  background-color: #171719;
-  box-shadow: 0px 4px 10px rgba(50, 52, 62, 0.2);
-  transform: translateY(-2px);
 }
 
 /*For small devices*/

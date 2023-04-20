@@ -22,10 +22,6 @@
   margin-bottom: var(--mb-2);
 }
 
-.footer__link: hover {
-  color: #f8f8f8;
-}
-
 .footer__list {
   margin-top: 1rem;
   display: flex;
