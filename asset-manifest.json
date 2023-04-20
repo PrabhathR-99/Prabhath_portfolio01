@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Prabhath_portfolio01/static/css/main.9ee5ddc9.css",
+    "main.js": "/Prabhath_portfolio01/static/js/main.71ed3be7.js",
+    "static/js/787.c2150269.chunk.js": "/Prabhath_portfolio01/static/js/787.c2150269.chunk.js",
+    "static/media/f012.jpg": "/Prabhath_portfolio01/static/media/f012.9e22d95d8fc821d3f8b5.jpg",
+    "static/media/f03.jpg": "/Prabhath_portfolio01/static/media/f03.ccfa6bc39e2d11cc6979.jpg",
+    "static/media/D01.png": "/Prabhath_portfolio01/static/media/D01.03bbf160e33fbca6659d.png",
+    "static/media/f015.png": "/Prabhath_portfolio01/static/media/f015.c09c8d894c3b1ab04da6.png",
+    "static/media/f07.png": "/Prabhath_portfolio01/static/media/f07.92a91cae49bffdbebcfb.png",
+    "static/media/f016.jpg": "/Prabhath_portfolio01/static/media/f016.aefda02a75c932c5cfa0.jpg",
+    "static/media/f011.jpg": "/Prabhath_portfolio01/static/media/f011.8908e367344fe4b8cd40.jpg",
+    "static/media/f013.png": "/Prabhath_portfolio01/static/media/f013.a60790c5f6fdfe2cf425.png",
+    "static/media/U04.png": "/Prabhath_portfolio01/static/media/U04.73d98cd6e195a3b30bff.png",
+    "static/media/f02.png": "/Prabhath_portfolio01/static/media/f02.318bd99cc792c2629fc0.png",
+    "static/media/Resume - Prabhath Rathnayaka.pdf": "/Prabhath_portfolio01/static/media/Resume - Prabhath Rathnayaka.73a12fcd35f727149361.pdf",
+    "static/media/f014n.png": "/Prabhath_portfolio01/static/media/f014n.d8433eebd94ae27015a3.png",
+    "static/media/f06.png": "/Prabhath_portfolio01/static/media/f06.b893a7d93649530e8676.png",
+    "static/media/f09.png": "/Prabhath_portfolio01/static/media/f09.89a90eef217ab4ad2834.png",
+    "static/media/U01.png": "/Prabhath_portfolio01/static/media/U01.cc97d4e009747560332e.png",
+    "static/media/f010.png": "/Prabhath_portfolio01/static/media/f010.3067d9208a6be4357fd0.png",
+    "static/media/f01.png": "/Prabhath_portfolio01/static/media/f01.c08cf6cd904b17fb0753.png",
+    "static/media/f08.png": "/Prabhath_portfolio01/static/media/f08.89676bd8bdcdf127bcbc.png",
+    "static/media/U03.png": "/Prabhath_portfolio01/static/media/U03.a066fbbb0c8d153c1896.png",
+    "static/media/U02.png": "/Prabhath_portfolio01/static/media/U02.265276ab37edfe46db12.png",
+    "static/media/me01.png": "/Prabhath_portfolio01/static/media/me01.2cdc85062b2ed6459529.png",
+    "static/media/f04.jpg": "/Prabhath_portfolio01/static/media/f04.74731b3ba5799c99eb90.jpg",
+    "static/media/D02.png": "/Prabhath_portfolio01/static/media/D02.75ad7cbd85ca3052a144.png",
+    "static/media/D03.png": "/Prabhath_portfolio01/static/media/D03.1215b01490f50bc269c4.png",
+    "static/media/me.png": "/Prabhath_portfolio01/static/media/me.118b44ee163b0b3a23a5.png",
+    "index.html": "/Prabhath_portfolio01/index.html",
+    "main.9ee5ddc9.css.map": "/Prabhath_portfolio01/static/css/main.9ee5ddc9.css.map",
+    "main.71ed3be7.js.map": "/Prabhath_portfolio01/static/js/main.71ed3be7.js.map",
+    "787.c2150269.chunk.js.map": "/Prabhath_portfolio01/static/js/787.c2150269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee5ddc9.css",
+    "static/js/main.71ed3be7.js"
+  ]
+}
